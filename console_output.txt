@@ -1,0 +1,67 @@
+/Users/ruchisingh/PycharmProjects/DecisionTreeGithub/venv/bin/python /Users/ruchisingh/Documents/Machine_Learning_Slides/MS_MachineLearning/Twitter_Clustering_K-means/K-Means/k-means.py
+Running K-means for experiment no. 1 for k = 3
+running iteration  0
+running iteration  1
+K-means converged
+---- size of cluster 1 :  1850 tweets
+---- size of cluster 2 :  864 tweets
+---- size of cluster 3 :  1215 tweets
+---- SSE : 3472.053480163822
+
+
+Running K-means for experiment no. 2 for k = 4
+running iteration  0
+running iteration  1
+running iteration  2
+K-means converged
+---- size of cluster 1 :  923 tweets
+---- size of cluster 2 :  904 tweets
+---- size of cluster 3 :  772 tweets
+---- size of cluster 4 :  1330 tweets
+---- SSE : 3377.4426024894537
+
+
+Running K-means for experiment no. 3 for k = 5
+running iteration  0
+running iteration  1
+K-means converged
+---- size of cluster 1 :  828 tweets
+---- size of cluster 2 :  708 tweets
+---- size of cluster 3 :  776 tweets
+---- size of cluster 4 :  916 tweets
+---- size of cluster 5 :  701 tweets
+---- SSE : 3354.905700742065
+
+
+Running K-means for experiment no. 4 for k = 6
+running iteration  0
+running iteration  1
+running iteration  2
+K-means converged
+---- size of cluster 1 :  1365 tweets
+---- size of cluster 2 :  470 tweets
+---- size of cluster 3 :  435 tweets
+---- size of cluster 4 :  558 tweets
+---- size of cluster 5 :  675 tweets
+---- size of cluster 6 :  426 tweets
+---- SSE : 3284.1826088827083
+
+
+Running K-means for experiment no. 5 for k = 7
+running iteration  0
+running iteration  1
+running iteration  2
+K-means converged
+---- size of cluster 1 :  562 tweets
+---- size of cluster 2 :  639 tweets
+---- size of cluster 3 :  927 tweets
+---- size of cluster 4 :  603 tweets
+---- size of cluster 5 :  616 tweets
+---- size of cluster 6 :  284 tweets
+---- size of cluster 7 :  298 tweets
+---- SSE : 3296.244435539427
+
+
+
+Process finished with exit code 0
+
